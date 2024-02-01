@@ -1,0 +1,2 @@
+# outputbothtext
+001
